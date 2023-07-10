@@ -7,3 +7,7 @@ This is a Mini Project of Core Java
 Select The Radio Button
 
 ![image](https://github.com/Kishankr09/onlineTest/assets/68832175/c4474cbf-5d57-4248-a0d0-06cebc3ea32d)
+
+Result Of The Test
+
+![image](https://github.com/Kishankr09/onlineTest/assets/68832175/f986d98b-fcdc-4366-9bc0-933f15ec8e84)
